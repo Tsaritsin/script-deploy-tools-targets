@@ -10,12 +10,13 @@
         <Authors>Tsaritsin</Authors>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
         <PackageTags>DbUp;script;database;sql</PackageTags>
-        <PackageProjectUrl>https://github.com/Tsaritsin/script-deploy-tools</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/Tsaritsin/script-deploy-tools-targets</PackageProjectUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
         <TreatSpecificWarningsAsErrors />
         <SymbolPackageFormat>snupkg</SymbolPackageFormat>
         <IncludeSymbols>true</IncludeSymbols>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
 
     <ItemGroup>
