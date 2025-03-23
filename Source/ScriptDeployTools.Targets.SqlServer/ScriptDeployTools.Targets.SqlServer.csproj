@@ -20,6 +20,10 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
-      <PackageReference Include="ScriptDeployTools" Version="1.0.0" />
+      <PackageReference Include="ScriptDeployTools" Version="2.0.5" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Include="..\..\README.md" Pack="true" Visible="false" PackagePath="" />
     </ItemGroup>
 </Project>
