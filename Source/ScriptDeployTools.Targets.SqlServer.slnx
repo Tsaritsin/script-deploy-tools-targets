@@ -1,0 +1,9 @@
+﻿<Solution>
+  <Folder Name="/SolutionItems/">
+    <File Path="..\.gitignore" />
+    <File Path="..\README.md" />
+    <File Path="..\.github\workflows\any-changes.yml" />
+    <File Path="..\.github\workflows\tagged.yml" />
+  </Folder>
+  <Project Path="ScriptDeployTools.Targets.SqlServer\ScriptDeployTools.Targets.SqlServer.csproj" Type="Classic C#" />
+</Solution>
